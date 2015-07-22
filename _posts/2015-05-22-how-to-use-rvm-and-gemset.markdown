@@ -21,6 +21,11 @@ How to use determinate version of ruby, example: "use ruby-2.1.5".
 ~$ rvm use 2.1.5
 {% endhighlight %}
 
+Set default ruby versions.
+{% highlight ruby %}
+~$ rvm use 2.2.2 --default
+{% endhighlight %}
+
 #### **GEMSET**
 To list the full directory path for the current gemset:
 {% highlight ruby %}
