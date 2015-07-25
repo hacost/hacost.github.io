@@ -7,7 +7,7 @@ View in: <http://hacost.github.io>
 
 Running in seconds your awesome site.
     
-    cd my_awesome-site
+    cd my_awesome_blog
     jekyll serve
     # => Now browse to http://localhost:4000
 
